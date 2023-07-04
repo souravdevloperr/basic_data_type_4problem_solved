@@ -5,7 +5,7 @@ if you want to turn off you need to use **setprecision() function which header f
 
 Lets learn about it:
 
-**#include <iostream>
+#include <iostream>
   #include <iomanip>
 
 int main() {
@@ -14,6 +14,6 @@ int main() {
     std::cout << std::setprecision(9) << pi << '\n'; // prints 3.141592654
 }
 
-     **               
+         
 
      setprecision is a manipulator in C++ that sets the number of digits to be displayed on the output of floating-point values. It is defined in the header file <iomanip>
