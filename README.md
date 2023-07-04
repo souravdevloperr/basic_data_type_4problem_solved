@@ -3,6 +3,7 @@
 There need to turn off scientific notation to print out double value.
 if you want to turn off you need to use **setprecision() function which header file is <iomanip>**
 
+**setprecision is a manipulator in C++ that sets the number of digits to be displayed on the output of floating-point values. It is defined in the header file <iomanip>**
 Lets learn about it:
 
 #include <iostream>
@@ -16,4 +17,4 @@ int main() {
 
          
 
-     setprecision is a manipulator in C++ that sets the number of digits to be displayed on the output of floating-point values. It is defined in the header file <iomanip>
+setprecision is a manipulator in C++ that sets the number of digits to be displayed on the output of floating-point values. It is defined in the header file <iomanip>
