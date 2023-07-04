@@ -6,7 +6,7 @@ if you want to turn off you need to use **setprecision() function which header f
 Lets learn about it:
 
 #include <iostream>
-  #include <iomanip>
+#include <iomanip>
 
 int main() {
     double pi = 3.14159265358979323846;
